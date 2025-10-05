@@ -1,5 +1,6 @@
 # **MoByte: A Decentralized Blockchain by Mahmoud**
 
+![MoByte Logo](img/MoByte.png)
 [![Python 3.13+](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/downloads/)
 [![Flask](https://img.shields.io/badge/Flask-000000.svg?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Pipenv](https://img.shields.io/badge/pipenv-managed-green.svg)](https://pipenv.pypa.io/en/latest/)
